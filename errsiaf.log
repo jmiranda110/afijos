@@ -1,0 +1,61 @@
+
+ERROR en  00:10:07   01/01/2021
+programa:  TC
+   linea:    35214595   DO c:\vsiaf\vsiaf.exe
+
+  numero:        2091   La 'c:\vsiaf\tipcamb.dbf' está dañada. Se debe reparar antes de volver a utilizarla.
+variable:  CALCULA
+
+
+=================================================================
+
+ERROR en  00:10:08   01/01/2021
+programa:  SETRELATIONS
+   linea:         116   DO c:\vsiaf\vsiaf.exe
+
+  numero:          13   No se encuentra el alias 'TIPCAMB'.
+variable:  CALCULA
+
+
+=================================================================
+
+ERROR en  00:10:09   01/01/2021
+programa:  SETRELATIONS
+   linea:         117   DO c:\vsiaf\vsiaf.exe
+
+  numero:          13   No se encuentra el alias 'TIPCAMB'.
+variable:  CALCULA
+
+
+=================================================================
+
+ERROR en  00:10:10   01/01/2021
+programa:  SETRELATIONS
+   linea:         122   DO c:\vsiaf\vsiaf.exe
+
+  numero:          13   No se encuentra el alias 'TIPCAMB'.
+variable:  CALCULA
+
+
+=================================================================
+
+ERROR en  00:10:10   01/01/2021
+programa:  FRSCALCULA1.CALCULA.LOAD
+   linea:          86   DO c:\vsiaf\vsiaf.exe
+
+  numero:          13   No se encuentra el alias 'TIPCAMB'.
+variable:  CALCULA
+
+
+=================================================================
+
+ERROR en  00:10:11   01/01/2021
+programa:  FRSCALCULA1.CALCULA.LOAD
+   linea:          87   DO c:\vsiaf\vsiaf.exe
+
+  numero:          13   No se encuentra el alias 'TIPCAMB'.
+variable:  CALCULA
+
+
+=================================================================
+
